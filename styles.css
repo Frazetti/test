@@ -9,7 +9,9 @@ p {
 
 div {
 	background-color: teal;
-	width: 100px;
+	width: 500px;
 	height: 400px;
+	margin: 100px;  /* obramowanie tła */
+	padding: 50px; /* obramowanie tekstu */
 }
 	
