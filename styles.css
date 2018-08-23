@@ -13,5 +13,9 @@ div {
 	height: 400px;
 	margin: 100px;  /* obramowanie tła */
 	padding: 50px; /* obramowanie tekstu */
+	
+	font-family: Arial, sans-serif; /* wiele czcionek umożliwia uniknięcie błędów w razie gdy pierwsza będzie niedostępna dla przeglądarki użytkownika */
+	font-size: 28px;
+	font-weight: bold;
 }
 	
